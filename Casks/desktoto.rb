@@ -1,6 +1,6 @@
 cask "desktoto" do
-  version "0.2.0"
-  sha256 "6e6062b5288293e11b22028d08a2d6822f006a1e8c0463bf781b1d64102b8e8a"
+  version "0.2.1"
+  sha256 "3f9b2651e67c6ac73f60a6d97ae813568703921f7f018f55db51321087789cc8"
 
   url "https://github.com/huniversal/Desktoto/releases/download/v#{version}/Desktoto-#{version}.zip"
   name "Desktoto"
